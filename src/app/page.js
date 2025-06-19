@@ -97,11 +97,11 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* New Detailed Services Sections */}
-      <ServicesModules />
-
       {/* Updated Comprehensive Services Section */}
       <ComprehensiveGridSection />
+
+      {/* New Detailed Services Sections */}
+      <ServicesModules />
 
       {/* Qatar PRO Services Section */}
       <QatarProServices />
